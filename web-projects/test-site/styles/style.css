@@ -1,0 +1,40 @@
+html {
+    font-family: 'Seymour One', sans-serif;
+    background-color: silver;
+}
+
+p {
+    color: seagreen;
+}
+
+p,
+li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    font-size: 60px;
+    text-align: center;
+    color: seagreen;
+    text-shadow: 3px 3px 1px silver;
+}
+
+img {
+    display: block;
+    margin: 10 auto;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+body {
+    width: 900px;
+    margin: 0 auto;
+    padding: 0px 20px 0px 20px;
+    background-color: rgba(56, 89, 208, 0.402);
+    border: 10px solid black;
+}
